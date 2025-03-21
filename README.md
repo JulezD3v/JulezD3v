@@ -1,7 +1,11 @@
-Hi there 👋
-I go by Julez or 5he_Dev 
-I am currently working on T3xNova/Aura still working on the name, the project is still in the designing phase. Whatever I have made public on the project is just a draft feel free to chip in on ideas/feature i could  add to this project.
-I am well conversant with front-end dev, UI/UX designing and data analysis.
+ 
+Hey there 👋! I go by Julez or 5he_Dev.
+
+I'm currently working on T3xNova/Aura—still refining the name, and the project is in its early design phase. 
+What you see publicly is just a draft, so feel free to share ideas or suggest features that could make it even better!
+
+My expertise lies in front-end development, UI/UX design, and data analysis, and I'm always exploring ways to push my skills further. 
+Let’s build something great together!.
 
 
 <!--
