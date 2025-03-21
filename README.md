@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there 👋
+I go by Julez or 5he_Dev 
+I am currently working on T3xNova/Aura still working on the name, the project is still in the designing phase. Whatever I have made public on the project is just a draft feel free to chip in on ideas/feature i could  add to this project.
+I am well conversant with front-end dev, UI/UX designing and data analysis.
+
 
 <!--
 **JulezD3v/JulezD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
