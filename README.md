@@ -4,7 +4,7 @@ Hey there 👋! I go by Julez or 5he_Dev.
 I'm currently working on T3xNova/Aura—still refining the name, and the project is in its early design phase. 
 What you see publicly is just a draft, so feel free to share ideas or suggest features that could make it even better!
 
-My expertise lies in front-end development, UI/UX design, and data analysis, and I'm always exploring ways to push my skills further. 
+My expertise lies in front-end development, UI/UX design, and data analysis, and blockchain Technology, and I'm always exploring ways to push my skills further. 
 Let’s build something great together!.
 
 
