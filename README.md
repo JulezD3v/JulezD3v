@@ -1,4 +1,4 @@
-# 💫 Hi Welcome to my Repo 😀:<h>
+# 💫 Hi Welcome to my Github 😀:<h>
 I’m a software engineer with a strong interest in mobile development, and applied AI. <br> I enjoy building practical systems that solve real problems, especially in resource-constrained environments.<br> Currently looking into robotics, Machine Learning and Mobile Development <br><br>
 
 
