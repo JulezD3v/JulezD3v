@@ -11,6 +11,6 @@ I’m a software engineer with a strong interest in mobile development, and appl
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=JulezD3v&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulezD3v&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
