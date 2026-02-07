@@ -16,7 +16,7 @@
 
  <h2  align="center">About Me</h2>
 
-I’m a software engineer with a strong interest in mobile development, and applied AI. Skilled in Front-end development
+I’m a software engineer with a strong interest in mobile development, and applied AI. Skilled in Front-end.
 I enjoy building practical systems that solve real problems, especially in resource-constrained environments.
 Currently looking into robotics, Machine Learning and Mobile Development <br><br><br>
 
@@ -50,7 +50,7 @@ Currently looking into robotics, Machine Learning and Mobile Development <br><br
 
 
 
-# GitHub Stats
+ <h2 align="centre">GitHub Stats</h2> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JulezD3v&theme=dark&hide_border=true" alt="GitHub Streak" />
