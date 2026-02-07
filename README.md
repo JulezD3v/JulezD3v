@@ -42,7 +42,8 @@ Currently looking into robotics, Machine Learning and Mobile Development <br><br
   <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=postman&logoColor=white"/>
+
 
 </p> <br><br>
 
@@ -52,8 +53,9 @@ Currently looking into robotics, Machine Learning and Mobile Development <br><br
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JulezD3v&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JulezD3v&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
   <sub>Built with intention. No noise.</sub>
