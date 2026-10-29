@@ -5,15 +5,6 @@
   />
 </p>
 
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/julie-kimani-a94971238">LinkedIn</a> •
-  <a href= "https://www.instagram.com/jul3zd3v/">Instagram</a> •
-  <a href="https://x.com/JulezD3v">X</a> •
-  <a href="https://YOURWEBSITE.com">Website</a>
-</p> <br><br>
-
  <h2  align="center">About Me</h2>
 
 I’m a software engineer with a strong interest in mobile development, and applied AI. Skilled in Front-end.
